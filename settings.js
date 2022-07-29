@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @6285751407389
+› Base Ori @6285751407389
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -18,31 +18,31 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasPrdn',
+'https://zenzapis.xyz': 'BagasGanz',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285751407389','6285751407389','6285751407389'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285751407389'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285751407389' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Anak Wibu' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/c/fexctiongaming'
+global.ig = 'https://instagram.com/fexctiongaming'
+global.mygc = 'https://chat.whatsapp.com/LJYcGUMHuuY0tnG4w2c2iX'
+global.myweb = 'https://youtu.be/dQw4w9WgXcQ'
+global.email = 'fexctiongaming@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Riy' //fexction gaming, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -58,7 +58,7 @@ free: 15,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/chika.jpg')
-global.veloriy = fs.readFileSync('./image/chika.mp4')
+/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
